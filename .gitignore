@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Environment secrets
+.env
+payslip_analyzer/.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output files
+payslip_analyzer/output/
+
+# Test payslip images
+pay1.png
+Payslip1.jpg
+payslip2.jpeg
+payslip3.jpg
+payslip4.png
+.DS_Store
+payslip_analyzer/logs/
+payslip_analyzer/logs/
